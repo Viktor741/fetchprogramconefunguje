@@ -1,2 +1,0 @@
-# fetchprogramconefunguje
-Created with CodeSandbox
